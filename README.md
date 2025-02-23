@@ -25,7 +25,7 @@ The Unofficial Oppo UDP-20X Remote is available on the [Google Play
 Store](https://play.google.com/store/apps/details?id=one.woodbury.oppo_remote).
 It is a remote control for the [Oppo
 UDP-203](https://www.oppodigital.com/blu-ray-udp-203/) and [Oppo
-UDPO-205](https://www.oppodigital.com/blu-ray-udp-205/) Blu-ray players.
+UDP-205](https://www.oppodigital.com/blu-ray-udp-205/) Blu-ray players.
 
 ### Support
 
