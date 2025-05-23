@@ -3,9 +3,11 @@
 ## Unofficial Emotiva Remote
 
 The Unofficial Emotiva Remote is available on the [Google Play
-Store](https://play.google.com/store/apps/details?id=one.woodbury.emotiva_remote).
+Store](https://play.google.com/store/apps/details?id=one.woodbury.emotiva_remote) and the Apple App Store.
 It is a remote control for [Emotiva](https://emotiva.com/) XMC and RMC
 processors.
+
+[Privacy policy](privacy/emotiva_remote.md)
 
 > [!WARNING]
 > This app is **only** meant to work with Emotiva XMC and RMC processor models.
@@ -22,10 +24,12 @@ on the [Emotiva forums](https://emotivalounge.proboards.com/).
 ## Unofficial Oppo UDP-20X Remote
 
 The Unofficial Oppo UDP-20X Remote is available on the [Google Play
-Store](https://play.google.com/store/apps/details?id=one.woodbury.oppo_remote).
+Store](https://play.google.com/store/apps/details?id=one.woodbury.oppo_remote) and the Apple App Store.
 It is a remote control for the [Oppo
 UDP-203](https://www.oppodigital.com/blu-ray-udp-203/) and [Oppo
 UDP-205](https://www.oppodigital.com/blu-ray-udp-205/) Blu-ray players.
+
+[Privacy policy](privacy/oppo_remote.md)
 
 ### Support
 
