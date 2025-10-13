@@ -9,11 +9,10 @@ processors.
 
 [Privacy policy](privacy/emotiva_remote.md)
 
-> [!WARNING]
-> This app is **only** meant to work with Emotiva XMC and RMC processor models.
-The app **does not** work with the **Basx** model processors or any Emotiva
-receivers. As of Feb 21, 2025, the processor models `XMC-2+` and `RMC-1+` have
-not been released and it is unknown whether this app will work with them.
+> **WARNING:** This app is **only** meant to work with Emotiva XMC and RMC
+processor models.  The app **does not** work with the **Basx** model processors
+or any Emotiva receivers. As of Oct 13, 2025, there are a few reports that this
+app _mostly_ works with the new processor models `XMC-2+` and `RMC-1+`.
 
 ### Support
 
