@@ -44,7 +44,7 @@ For technical support, contact apps@woodbury.one.
 Citizen](https://robertsspaceindustries.com/). There are various doors and
 printers with cooldowns, and this app helps you keep track of them. If this is
 the first you're hearing about this game and you're curious, please visit my
-[referal
+[referral
 link](https://robertsspaceindustries.com/en/enlist?referral=STAR-RD6Y-42X5).
 
 ### Mobile version
