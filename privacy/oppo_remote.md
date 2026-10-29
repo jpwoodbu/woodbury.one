@@ -58,5 +58,5 @@ If you have any questions or suggestions about my Privacy Policy, do not
 hesitate to contact me at apps@woodbury.one.
 
 This Privacy Policy was created with the help of the
-[Privacy Policy Template](https://www.privacypolicytemplate.net").
+[Privacy Policy Template](https://www.privacypolicytemplate.net).
 
